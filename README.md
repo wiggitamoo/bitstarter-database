@@ -1,6 +1,6 @@
 Installation
 ============
-The following instructions will set up a more complex bitstarter than the
+The  following instructions will set up a more complex bitstarter than the
 one you've done to date. Now you will be recording orders to a database.
 The following commands are to be executed on your EC2 remote machine.
 
